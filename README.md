@@ -1,6 +1,6 @@
 # SQL: Let's Get Together
 
-Given the scenarios, add the the directed queries to the "answers" directory's files.
+Given the scenarios, add SELECT Country, COUNT(*) AS 'Students' FROM Students GROUP BY Country;the the directed queries to the "answers" directory's files.
 
 
 ## Introduction to Joins
